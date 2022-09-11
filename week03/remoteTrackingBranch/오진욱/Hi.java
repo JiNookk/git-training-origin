@@ -5,6 +5,6 @@ public class Hi {
     }
 
     public void run() {
-        
+        String practice4 = "practice4";
     }
 }
