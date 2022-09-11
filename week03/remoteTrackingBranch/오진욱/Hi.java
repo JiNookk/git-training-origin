@@ -3,4 +3,8 @@ public class Hi {
         Hi application = new Hi();
         application.run();
     }
+
+    public void run() {
+        
+    }
 }
