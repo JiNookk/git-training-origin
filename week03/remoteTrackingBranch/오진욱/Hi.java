@@ -6,5 +6,6 @@ public class Hi {
 
     public void run() {
         practice3
+        new Message
     }
 }
